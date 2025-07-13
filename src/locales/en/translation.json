@@ -1,0 +1,37 @@
+{
+  "navigation": {
+    "startup": "ARE YOU A STARTUP?",
+    "investor": "AN INVESTOR?",
+    "contact": "OTHER ? REACH OUT TO US",
+    "callToAction": "Call To Action"
+  },
+  "common": {
+    "welcome": "Welcome",
+    "language": "Language",
+    "english": "English",
+    "french": "French",
+    "arabic": "Arabic"
+  },
+  "home": {
+    "title": "Digital Investment Platform",
+    "subtitle": "Connecting startups with investors",
+    "description": "We help innovative startups find the right investors and provide investors with access to promising opportunities."
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a leading digital investment platform that bridges the gap between innovative startups and strategic investors."
+  },
+  "services": {
+    "title": "Our Services",
+    "startupServices": "Startup Services",
+    "investorServices": "Investor Services"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "getInTouch": "Get in touch with us",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send Message"
+  }
+} 

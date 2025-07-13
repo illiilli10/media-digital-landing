@@ -1,0 +1,37 @@
+{
+  "navigation": {
+    "startup": "ÊTES-VOUS UNE STARTUP ?",
+    "investor": "UN INVESTISSEUR ?",
+    "contact": "AUTRE ? CONTACTEZ-NOUS",
+    "callToAction": "Appel à l'action"
+  },
+  "common": {
+    "welcome": "Bienvenue",
+    "language": "Langue",
+    "english": "Anglais",
+    "french": "Français",
+    "arabic": "Arabe"
+  },
+  "home": {
+    "title": "Plateforme d'Investissement Numérique",
+    "subtitle": "Connecter les startups avec les investisseurs",
+    "description": "Nous aidons les startups innovantes à trouver les bons investisseurs et fournissons aux investisseurs l'accès à des opportunités prometteuses."
+  },
+  "about": {
+    "title": "À Propos de Nous",
+    "description": "Nous sommes une plateforme d'investissement numérique de premier plan qui fait le pont entre les startups innovantes et les investisseurs stratégiques."
+  },
+  "services": {
+    "title": "Nos Services",
+    "startupServices": "Services pour Startups",
+    "investorServices": "Services pour Investisseurs"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "getInTouch": "Contactez-nous",
+    "email": "Email",
+    "phone": "Téléphone",
+    "message": "Message",
+    "send": "Envoyer le Message"
+  }
+} 
